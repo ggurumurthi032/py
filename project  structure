@@ -1,0 +1,50 @@
+
+# py
+
+🐍 Advanced Python Project
+
+📌 Project Title: Online Examination System
+
+(Python + Flask + SQLite)
+
+---
+
+🔹 Project Description
+
+This system allows:
+
+- Student login
+- Online exam
+- Auto evaluation
+- Result display
+
+It is a real-world web-based Python project.
+
+---
+
+🧠 Technologies Used
+
+- Python
+- Flask (Web Framework)
+- SQLite (Database)
+- HTML (Embedded in Python)
+
+---
+
+📂 Project Structure
+
+online_exam/
+│
+├── app.py
+├── exam.db
+
+---
+
+🧾 Step 1: Install Required Library
+
+pip install flask
+
+---
+
+🧾 Step 2: FULL SOURCE CODE (app.py)
+
