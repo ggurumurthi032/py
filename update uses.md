@@ -1,0 +1,127 @@
+# py
+🐍 Uses of Python
+
+1️⃣ Web Development
+
+- Used to create websites and web apps
+- Popular frameworks: Django, Flask
+
+Example:
+
+from flask import Flask
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "Hello Web"
+
+app.run()
+
+---
+
+2️⃣ Data Science & Data Analysis
+
+- Used to analyze and visualize data
+- Libraries: NumPy, Pandas, Matplotlib
+
+Example:
+
+import pandas as pd
+data = pd.read_csv("data.csv")
+print(data.head())
+
+---
+
+3️⃣ Artificial Intelligence & Machine Learning
+
+- Used in AI, ML, Deep Learning
+- Libraries: TensorFlow, Keras, Scikit-learn
+
+Example:
+
+from sklearn.linear_model import LinearRegression
+model = LinearRegression()
+
+---
+
+4️⃣ Automation & Scripting
+
+- Automates repetitive tasks
+- Used for file handling, emails, system tasks
+
+Example:
+
+import os
+os.mkdir("NewFolder")
+
+---
+
+5️⃣ Game Development
+
+- Used to create simple games
+- Library: Pygame
+
+Example:
+
+import pygame
+
+---
+
+6️⃣ Desktop Applications
+
+- Used to build GUI applications
+- Libraries: Tkinter, PyQt
+
+Example:
+
+from tkinter import *
+
+---
+
+7️⃣ Mobile App Development
+
+- Used to build Android apps
+- Frameworks: Kivy, BeeWare
+
+---
+
+8️⃣ Cyber Security & Networking
+
+- Used for penetration testing and networking tools
+- Libraries: Scapy, Socket
+
+---
+
+9️⃣ Scientific & Numerical Computing
+
+- Used in engineering and research
+- Libraries: SciPy, SymPy
+
+---
+
+🔟 Internet of Things (IoT)
+
+- Used in smart devices and sensors
+- Runs on Raspberry Pi
+
+---
+
+1️⃣1️⃣ Cloud Computing
+
+- Used in cloud platforms
+- Works with AWS, Azure, Google Cloud
+
+---
+
+1️⃣2️⃣ Software Testing
+
+- Used for test automation
+- Tools: Selenium, PyTest
+
+---
+
+✅ Summary (Exam Point)
+
+- Python is easy, flexible, and powerful
+- Used in web, AI, data science, automation
+- Supports multiple platforms and libraries
