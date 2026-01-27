@@ -21,6 +21,7 @@ It is easy to learn, readable, and widely used in AI, Data Science, Web Developm
 - Large standard library
 - Supports OOP and functional programming
 
+
 ---
 
 🛠️ Python Installation

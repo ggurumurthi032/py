@@ -52,3 +52,5 @@ python-basics/
 - practice/ → Practice programs and interview questions to reinforce learning and prepare for coding interviews. Includes basic programs and common questions to build problem-solving skills.
 - requirements.txt → File listing external libraries or dependencies needed for the project (if any). Used with pip to install required packages for running the code.
 -
+
+made by guru 
